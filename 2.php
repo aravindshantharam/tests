@@ -7,7 +7,7 @@ abstract class Base {
 
 class Child extends Base {
     function qwer() {
-        echo 'Child __construct<br/>';
+        echo 'Child __construct here.<br/>';
     }
 }
 
